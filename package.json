@@ -1,0 +1,27 @@
+{
+  "name": "lulu-electron-tpl",
+  "version": "1.0.0",
+  "description": "Electron 模版代码",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luludexiaowang/lulu-electron-tpl.git"
+  },
+  "keywords": [
+    "electron",
+    "tpl"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luludexiaowang/lulu-electron-tpl/issues"
+  },
+  "homepage": "https://github.com/luludexiaowang/lulu-electron-tpl#readme",
+  "devDependencies": {
+    "electron": "^34.1.1"
+  }
+}
